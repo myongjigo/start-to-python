@@ -13,5 +13,5 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
 
 # Day 3 (2017-01-12) [#3](https://github.com/myongjigo/start-to-python/issues/3)
  - [Coursera Python 강의 Week 2](https://www.coursera.org/learn/python/supplement/oEjgq/important-reading-using-python-in-this-class) - Windows 8만 보고 대충 넘길것
- - [점프 투 파이썬 2장 - 숫자형, 문자열 자료형(2.1, 2.2)](https://wikidocs.net/11)
- - 추가 업데이트 예정
+ - [점프 투 파이썬 2장 - 숫자형, 문자열 자료형(2.1, 2.2)](https://wikidocs.net/11) - 정독하며 타이핑 해보기!!
+ - 추가 업데이트 예정 (Hackerrank)
