@@ -17,4 +17,4 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
  - 추가 업데이트 예정 (Hackerrank)1
  
 # Day 4 (2017-01-13) [#3](https://github.com/myongjigo/start-to-python/issues/4)
- - [Coursera Python 강의 Week 3](https://www.coursera.org/learn/python/supplement) - 여기부터 중요!!
+ - [Coursera Python 강의 Week 3](https://www.coursera.org/learn/python/lecture/pkjuO/lecture-1-4-writing-paragraphs-of-code) - 여기부터 중요!!
