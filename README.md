@@ -15,3 +15,6 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
  - [Coursera Python 강의 Week 2](https://www.coursera.org/learn/python/supplement/oEjgq/important-reading-using-python-in-this-class) - Windows 8만 보고 대충 넘길것
  - [정보 교육을 위한 파이썬 2장](http://www.pythonlearn.com/translations/KO/book_009_ko.pdf) - 완독 및 연습문제 풀기!!
  - 추가 업데이트 예정 (Hackerrank)1
+ 
+# Day 4 (2017-01-13) [#3](https://github.com/myongjigo/start-to-python/issues/4)
+ - [Coursera Python 강의 Week 3](https://www.coursera.org/learn/python/supplement) - 여기부터 중요!!
