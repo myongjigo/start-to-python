@@ -21,3 +21,6 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
 
 # Day 5 / 6 (2017-01-14 / 2017-01-15)
  - [Coursera Python 강의 Week 4](https://www.coursera.org/learn/python/lecture/vjiO8/lecture-2-1-expressions)
+
+# Day 7 (2017-01-16)
+ - [Hackerrank Introduction 문제 풀기](https://www.hackerrank.com/domains/python/py-introduction)
