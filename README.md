@@ -25,5 +25,5 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
 # Day 7 (2017-01-16)
  - [Hackerrank Introduction 문제 풀기](https://www.hackerrank.com/domains/python/py-introduction)
 
-# Day 8 (2017-01-17)
+# Day 8 / 9 / 10 (2017-01-17 ~ 2017-01-19)
  - [Coursera Python 강의 Week 5](https://www.coursera.org/learn/python/lecture/qsBPY/lecture-3-1-conditional-statements)
