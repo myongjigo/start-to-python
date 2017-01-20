@@ -27,3 +27,8 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
 
 # Day 8 / 9 / 10 (2017-01-17 ~ 2017-01-19)
  - [Coursera Python 강의 Week 5](https://www.coursera.org/learn/python/lecture/qsBPY/lecture-3-1-conditional-statements)
+  - if / elif / else 짚고 넘어갈 것
+  - try / catch 도 중요!!
+
+# Day 11 (2017-01-20)
+     - [Coursera Python 강의 Week 6]
