@@ -31,7 +31,10 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
   - try / catch 도 중요!!
 
 # Day 11 (2017-01-20)
- - [Coursera Python 강의 Week 6]
+ - [Coursera Python 강의 Week 6](https://www.coursera.org/learn/python/home/week/6)
 
 # Day 12 (2017-01-21)
  - Offline QNA
+ 
+# Day 13 (2017-01-22)
+ - [Coursera Python  Week 7](https://www.coursera.org/learn/python/home/week/7)
