@@ -37,4 +37,4 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
  - Offline QNA
  
 # Day 13 (2017-01-22)
- - [Coursera Python  Week 7](https://www.coursera.org/learn/python/home/week/7)
+ - [Coursera Python 강의 Week 7](https://www.coursera.org/learn/python/home/week/7)
