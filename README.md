@@ -40,4 +40,5 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
  - [Coursera Python 강의 Week 7](https://www.coursera.org/learn/python/home/week/7)
 
 # Day 14 (2017-01-23)
+ - [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) - Day 2 / Day 3 문제 풀기
  - [Python Data Structure Week 1](https://www.coursera.org/learn/python-data)
