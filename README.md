@@ -45,3 +45,6 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
  
 # Day 15 (2017-01-24)
  - [Python Data Structure Week 1 Review](https://www.coursera.org/learn/python-data)
+ 
+# Day 16 (2017-01-25)
+ - [Python Data Structure Week 2 강의](https://www.coursera.org/learn/python-data)
