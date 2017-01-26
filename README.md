@@ -14,7 +14,6 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
 # Day 3 (2017-01-12) [#3](https://github.com/myongjigo/start-to-python/issues/3)
  - [Coursera Python 강의 Week 2](https://www.coursera.org/learn/python/supplement/oEjgq/important-reading-using-python-in-this-class) - Windows 8만 보고 대충 넘길것
  - [정보 교육을 위한 파이썬 2장](http://www.pythonlearn.com/translations/KO/book_009_ko.pdf) - 완독 및 연습문제 풀기!!
- - 추가 업데이트 예정 (Hackerrank)1
  
 # Day 4 (2017-01-13) [#3](https://github.com/myongjigo/start-to-python/issues/4)
  - [Coursera Python 강의 Week 3](https://www.coursera.org/learn/python/lecture/pkjuO/lecture-1-4-writing-paragraphs-of-code) - 여기부터 중요!!
@@ -46,5 +45,8 @@ Control + 클릭 이나 휠 버튼으로 클릭할 것
 # Day 15 (2017-01-24)
  - [Python Data Structure Week 1 Review](https://www.coursera.org/learn/python-data)
  
-# Day 16 (2017-01-25)
- - [Python Data Structure Week 2 강의](https://www.coursera.org/learn/python-data)
+# Day 16 (2017-01-26)
+ - [정보 교육을 위한 파이썬 7장](http://www.pythonlearn.com/translations/KO/book_009_ko.pdf)
+ 
+# Day 17 (2016-01-27)
+ - [Python Data Structure Week 3 강의](https://www.coursera.org/learn/python-data)
